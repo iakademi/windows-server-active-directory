@@ -1,0 +1,6 @@
+Ad,Soyad,KullaniciAdi,Departman,Unvan,OU,Eposta,Gruplar
+Ayse,Yilmaz,ayse.yilmaz,Muhasebe,Muhasebe Uzmani,"OU=Kullanicilar,OU=Muhasebe,OU=Departmanlar,DC=example,DC=local",ayse.yilmaz@example.local,GG-Muhasebe;GG-VPN-Kullanicilari
+Mehmet,Kaya,mehmet.kaya,Satis,Satis Temsilcisi,"OU=Kullanicilar,OU=Satis,OU=Departmanlar,DC=example,DC=local",mehmet.kaya@example.local,GG-Satis
+Zeynep,Demir,zeynep.demir,Bilgi Islem,Sistem Yoneticisi,"OU=Kullanicilar,OU=BilgiIslem,OU=Departmanlar,DC=example,DC=local",zeynep.demir@example.local,GG-BilgiIslem;GG-VPN-Kullanicilari
+Can,Ozturk,can.ozturk,Insan Kaynaklari,IK Uzmani,"OU=Kullanicilar,OU=InsanKaynaklari,OU=Departmanlar,DC=example,DC=local",can.ozturk@example.local,GG-InsanKaynaklari
+Elif,Arslan,elif.arslan,Satis,Satis Muduru,"OU=Kullanicilar,OU=Satis,OU=Departmanlar,DC=example,DC=local",elif.arslan@example.local,GG-Satis;GG-Yoneticiler
